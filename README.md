@@ -9,7 +9,7 @@
 ```bash
 cd backend
 npm install
-npm run start   # → [http://localhost:3000](http://localhost:3000/api/caracol/5)
+npm run start   # → [http://localhost:3000]
 npm run tests   # → Vitest
 ```
 ## Endpoint principal
