@@ -1,8 +1,3 @@
-/**
- * CAPA DE INFRAESTRUCTURA — Controlador HTTP.
- * Parsea la request, delega al caso de uso y mapea
- * errores a códigos HTTP. Sin lógica de negocio.
- */
 import { Request, Response } from 'express';
 import { buildSpiralResponse } from '../../application/spiralUseCase';
 
