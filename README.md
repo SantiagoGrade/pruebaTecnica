@@ -2,7 +2,6 @@
 
 ## Stack
 - **Backend**: Node.js + TypeScript + Express + Vitest
-- **Frontend**: Angular 17 (standalone) + Karma/Jasmine
 
 ## Levantar el proyecto
 
